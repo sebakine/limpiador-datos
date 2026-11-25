@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+dist/
+build/
+*.egg-info/
+# Salidas generadas al probar el CLI
+*_limpio.csv
+*_limpio.xlsx
+reporte*.html
+reporte*.xlsx
+!docs/**
