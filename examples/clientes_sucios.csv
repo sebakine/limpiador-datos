@@ -1,0 +1,313 @@
+RUT Cliente;Nombre;Correo;Teléfono;Fecha de Compra;Monto;Comuna
+21.737.911-4;  amanda encina gutiérrez  ;  AGONZALEZ@EXAMPLE.COM ;(+56) 9-8926-6786;19-12-2023;435.336 CLP;Río Negro
+23095773-8;  katherine díaz molina  ;mardonesisrael@example.org;95076148;2025-02-08;$89.224;Mariquina
+133919031;José Olivares Leiva;vergaraalejandro@example.com;82427544;2024-10-10;93.021 CLP;Collipulli
+211681306;  rodolfo miguel pastén becerra  ;fnunez@example.com;+56 9 5772 8908;28 de abr de 2023;2338538;Retiro
+19823878-3;  nelson ricardo ávalos piña  ;wilfredo35@example.org;+56 9 9938 9536;2024-09-22;$392.694;Iquique
+23125852-3;JORGE LUIS ALVARADO SOLÍS;daniel74@example.com;982839523;12 de dic de 2022;$991.328;Pichidegua
+11.412.367-6;  dafne leonor gallegos-acosta carrillo  ;  KSANCHEZ@EXAMPLE.NET ;58353376;15 de dic de 2025;1423022;Curepto
+22764799-K;Carolina Romina Pastén-Aravena Lara;segundo12@example.org;(+56) 9-9408-1425;19 de abr de 2022;$1.489.158;Chiguayante
+10.393.472-9;Adrián Soto;francisoyarce@example.net;81653147;09/02/2022;159357;El Carmen
+8.064.421-3;  maría cecilia sánchez cortés  ;berta48@example.com;98867;2025-09-21;762220;Cisnes
+19450384-9;  mercedes juana saldías román  ;  QNUNEZ@EXAMPLE.ORG ;983572037;28 de jul de 2022;$79.607;Chile Chico
+16528435-6;  camilo cerda garcés  ;  CARDENASJORGE@EXAMPLE.NET ;+56 9 5475 3207;2022-02-11;$576.161;Antártica
+147843070;  agustina antonella toro aravena  ;isidoraduran@example.com;81133593;18-12-2023;N/A;Pica
+9840809-6;  ana yolanda parra madrid  ;roberto00@example.com;952611472;15-9-2025;1376588;Los Ángeles
+6.477.666-5;Sabina Elba Fuentes Salinas;silvajuan@example.com;56974426049;18 de ene de 2023;942685;Dalcahue
+25982426-5;  aldo mauricio osorio rubio  ;rrojas@example.com;92857351;6 de feb de 2025;$2.117.834;Pozo Almonte
+132754454;  maría inostroza palma  ;pablocastillo@example.com;56989160231;16/09/2023;$460.901;Cauquenes
+22914805-2;Leonardo Jiménez Torres;oscar69@example.org;+56 9 5169 5984;9-4-2022;$1.203.152;Freire
+7.295.512-9;  carmen castillo velásquez  ;jaramillomaria@example.org;56979534572;20-7-2023;$364.595;Providencia
+24.335.152-9;  franco rodrigo farías retamal  ;lrivera@example.org;(+56) 9-5250-7965;2025-02-25;1460325;Cobquecura
+24.045.279-0;Edith Sánchez-Muñoz;jose39@example.net;9914;22 de ago de 2024;1.738.212 CLP;Machalí
+147843070;  agustina antonella toro aravena  ;isidoraduran@example.com;81133593;18-12-2023;N/A;Pica
+147498160;GUSTAVO PÉREZ MARCHANT;sotopatricio@example.net;+56 9 5637 5239;2022-03-22;1.500.578 CLP;Lampa
+23311474-K;SOLEDAD BERNARDA DÍAZ RODRÍGUEZ;jaimegarrido@example.org;+56 9 9894 4143;31/02/2023;$1.653.898;Lago Verde
+24240100-k;LEONEL JARAMILLO GONZÁLEZ;aguileramargarita@example.com;56951399659;12/12/2025;1021543;Guaitecas
+24191807-6;Katherine Carrillo Reyes;castrodylan@example.net;56970208577;2022-03-14;2032013;Zapallar
+16.912.119-2;  ernesto gastón cortés herrera  ;violetadiaz@example.com;995464369;1-2-2025;2.142.931 CLP;Freire
+6041193-K;Edith Elisa Valenzuela Martínez;vgonzalezexample.com;+56 9 6600 8480;2023-08-23;704.758 CLP;Calle Larga
+9533703-1;  dominga luisa contreras catalán  ;paraya@example.com;(+56) 9-9234-8882;2025-09-21;$1.457.129;Alto del Carmen
+18.957.073-2;  valeria francisca álvarez zúñiga  ;geraldinevasquez@example.com;952728186;17-4-2022;$2.230.948;Chile Chico
+12072652-8;  manuel javier aravena guzmán  ;avendanorodolfo@example.com;56974410;22 de dic de 2022;$1.392.315;Valdivia
+177549193;Ximena Carol Hidalgo Osses;soledad78@example.org;+56 9 6405 9778;24 de sep de 2023;1.592.551 CLP;Cerrillos
+252232834;Jessica Verónica Flores Aguirre;wortega@example.com;959491097;20/03/2025;1.299.480 CLP;Natales
+23211133-K;  barbara maría orellana peña  ;milancampos@example.org;73331381;28/10/2024;2228751;Chile Chico
+16577363-2;  virginia sofía urrutia alfaro  ;;56959326005;21-9-2022;784.939 CLP;Maipú
+6165294-9;Joaquín Rojas Arellano;valdivialucas@example.org;56980134546;05/04/2023;1.827.171 CLP;Panguipulli
+249663646;ALBA NATALIA MARTÍNEZ OSSES;luzmira79@example.net;96216397;18/09/2024;168.188 CLP;Victoria
+227483041;  bárbara barra ibáñez  ;icastillo@example.net;+56 9 5901 2124;2023-05-10;854949;Requínoa
+22.577.630-K;JUAN YÁÑEZ BAEZA;maria09@example.net;(+56) 9-7416-7505;06/06/2023;$2.408.162;Villa Alegre
+11704177-8;  alberto diego díaz gutiérrez  ;sandovalmartin@example.net;51806309;26/08/2023;$1.717.064;Melipilla
+13327906-7;  marco manríquez-aguilera luna  ;  CRISTIAN32@EXAMPLE.ORG ;(+56) 9-9150-1353;15 de ago de 2025;$1.281.857;Santiago
+23602995-6;  andrés olivares acevedo  ;vicentejaque@example.net;56995454037;2024-07-18;1.204.403 CLP;San Juan de la Costa
+16.936.746-9;  benedicto vicente palma guerrero  ;nataliatoro@example.net;9616680;24/09/2025;$1.938.949;Colina
+17666675-7;  diego angulo ríos  ;valdesluis@example.net;(+56) 9-5796-1337;5-9-2025;15568;Santo Domingo
+23757989-5;  muriel josefa gutiérrez cerda  ;miguel03@example.org;993918365;2023-12-28;1559949;Paredones
+25047852-7;  anaís garrido soto  ;juan20@example.com;(+56) 9-5071-8762;2-4-2024;711862;Puchuncaví
+6315027-4;Karen Estay;rodrigoretamal@example.com;62082114;2022-12-24;360.655 CLP;Puchuncaví
+13837869-1;  magdalena paula lorca navarro  ;nsanchez@example.net;(+56) 9-9196-3185;12/03/2023;$1.360.609;Teno
+145002354;Jordán Claudio Silva Domínguez;  ACEVEDODANIELA@EXAMPLE.ORG ;56994217428;7-1-2023;415.202 CLP;Nacimiento
+15411086-0;MAXIMILIANO CISTERNAS FUENTES;mzuniga@example.net;+56 9 5512 5733;12-6-2023;991983;Chile Chico
+10874199-6;Luz Marta Aguilera Martínez;vdiaz@example.net;56976641854;01/01/2024;1.406.268 CLP;Cañete
+23726198-4;GRACIELA MARTÍNEZ GUEVARA;maria01@example.org;80274530;13/01/2024;266.237 CLP;San Rafael
+157144804;CAROL XIMENA TOLEDO HUERTA;rojashector@example.org;+56 9 7486 6531;15 de abr de 2024;$1.040.847;Maule
+226674692;  ana nicol soto trujillo  ;marcelomunoz@example.net;56975281242;2023-12-15;997.273 CLP;Huara
+19231375-9;Magdalena Torres Caro;anacastro@example.org;+56 9 6041 0019;14/11/2022;$1.010.427;Castro
+12.333.050-1;  hermes briones ferreira  ;luislillo@example.com;+56 9 6661 1566;12/05/2025;$1.842.592;Tirúa
+16124968-8;Héctor Olmos Peralta;pamela84@example.com;88512716;13-1-2025;$1.485.545;El Tabo
+13349118K;CARLOS JORQUERA RUIZ;daniela77example.com;975739636;2023-02-27;1.913.293 CLP;Guaitecas
+82448012;  elsa herrera gonzález  ;  AGUILERATERESA@EXAMPLE.COM ;+56 9 8957 5871;14 de sep de 2025;2403137;Licantén
+20353549-K;Javiera Verónica Muñoz Loyola;usoto@example.com;992347892;15-1-2022;2418088;El Tabo
+80499485;  matías valenzuela díaz  ;  LFLORES@EXAMPLE.NET ;993929192;27 de ene de 2024;1.393.394 CLP;Linares
+15040638-2;  mónica san martín álvarez  ;mariavasquez@example.net;981869502;2024-11-04;112766;Queilén
+14114104-K;Luis Vásquez Araya;carlosescobar@example.org;56985637591;14 de feb de 2022;$422.715;Cholchol
+19051935-K;PATRICIO ÁLVARO MIRANDA SEPÚLVEDA;fernandotobar@example.com;+56 9 9103 5597;7 de sep de 2023;$2.205.010;Río Bueno
+241945588;  julián guillermo cifuentes espinoza  ;  SANCHEZANGELA@EXAMPLE.NET ;96058028;10-9-2024;$1.233.219;Chépica
+15759737-K;IVÁN JUAN PAZ DÍAZ;  BENJAMINGONZALEZ@EXAMPLE.COM ;976725405;26 de oct de 2025;1176664;Chaitén
+14193159-8;  verónica gómez morales  ;javiera95@example.net;56958312966;20 de ago de 2024;2462554;Curacaví
+7528436-5;NORMA MARINA PEREIRA HERRERA;marieguzman@example.net;(+56) 9-8888-7445;11/11/2024;1967797;Huara
+101135268;ÁNGEL JAIME OLIVARES LÓPEZ;catalandiego@example.org;96131;2023-12-24;1.508.793 CLP;San Nicolás
+197915715;  ítalo pedro peña gatica  ;ljaramilloexample.com;69804527;2023-04-05;2227556;Timaukel
+20.592.782-4;CAMILA LUISA SANTANDER ESPINOZA;fsalazar@example.com;(+56) 9-5071-0795;5-9-2023;2.376.474 CLP;Ollagüe
+7131636-k;  verónica alexandra rojas maturana  ;mauriciosanchez@example.net;+56 9 8712 6361;2022-11-18;$468.883;Curanilahue
+9987242-1;  sofía tobar sánchez  ;maria15@example.com;77648328;9 de feb de 2022;837.586 CLP;Cabo de Hornos
+19.097.677-7;  juan ronald fierro navarrete  ;  CLAUDIA78@EXAMPLE.NET ;950395679;18-7-2025;2048782;Portezuelo
+16.111.545-2;CATALINA DANIELA ROJAS MANSILLA;uastudillo@example.net;9678151;26/12/2024;$1.616.626;Andacollo
+223478751;ROLANDO ZAPATA DÍAZ;  YANIRASEPULVEDA@EXAMPLE.COM ;+56 9 8772 4472;23-2-2025;1.067.568 CLP;Ercilla
+13080906-5;Amaro Rivas Silva;fariasjohanna@example.org;+56 9 6704 4130;22/05/2025;1.853.748 CLP;Porvenir
+24250601-4;JOSÉ ARCE;josefaarriagada@example.net;965761279;2023-04-07;$655.292;Talcahuano
+242225741;  manuel luis castro carrasco  ;maria69@example.org;994814367;2023-07-22;493477;General Lagos
+13510502-3;  alicia jara guerra  ;rodrigo45@example.net;68492554;18 de jul de 2023;750.604 CLP;Diego de Almagro
+13411680-3;ANDRÉS ROMÁN;larias@example.org;+56 9 9504 9882;2024-10-03;2.038.849 CLP;San Pedro de la Paz
+8033049-9;Herminia Méndez;fernandovasquez@example.net;56988403588;2023-11-08;1.718.597 CLP;Villarrica
+195595917;  ricardo palma herrera  ;alberto37@example.net;+56 9 5639 9624;28 de abr de 2023;$1.138.055;Paillaco
+19121836-1;PEDRO VÍCTOR SOTO ÁLVAREZ;hildamoreno@example.org;9548;07/05/2022;1.670.228 CLP;San Nicolás
+147734662;Gladys Fernández;paulacastro@example.com;+56 9 6257 0423;17/02/2024;$1.638.681;O'Higgins
+17704969-7;Silvia Araya Paredes;unaranjo@example.org;88455723;04/06/2025;$431.517;Ránquil
+13904256-6;  nicanor cristian osses contreras  ;  SEGOVIAGONZALO@EXAMPLE.COM ;954265307;17/08/2022;2.188.124 CLP;Paiguano
+186059999;Diego Luis Ávila Aguilar;asalas@example.com;56956401186;30/02/2025;988847;Chaitén
+15.729.012-6;Fabiola Florencia Encina-Molina Leyton;fernandezmanuel@example.org;976666042;26 de ene de 2025;$472.938;San Carlos
+178037889;  claudio álvarez uribe  ;cristinaramos@example.net;(+56) 9-9990-6846;2025-04-21;2.468.866 CLP;Nueva Imperial
+100014319;  ricardo pablo vásquez valenzuela  ;rojasdomingo@example.org;978842498;12-1-2024;432.147 CLP;Salamanca
+10172188-4;Miguel Nelson Avendaño Salgado;rebolledoariel@example.com;90126661;2025-09-02;$2.252.946;Cochamó
+11.116.234-4;  ignacio montes álvarez  ;perlapadilla@example.org;98071;2022-04-02;2.162.675 CLP;Alhué
+168092210;CAROLINA MARAMBIO ÁLVAREZ;hsoto@example.com;953817826;28/11/2022;2492751;Longaví
+152047266;  pamela ana leiva salazar  ;eliana86@example.net;+56 9 8482 2641;2024-04-21;526.002 CLP;Villa Alegre
+6797032-2;Rómulo Héctor Becerra Bugueño;elizabeth33@example.org;(+56) 9-8718-5855;10/11/2024;209.186 CLP;Aisén
+16778391-1;  martín patricio arriagada echeverría  ;marta74@example.net;+56 9 5466 9798;17 de dic de 2022;1903728;Antuco
+18.182.955-9;Ariel Wilson Rojas Sepúlveda;carrascoalonso@example.org;976462528;19 de ago de 2022;1.102.247 CLP;Cartagena
+77509062;JUAN JOSÉ PAREDES QUEZADA;alejandra57example.net;998062818;22 de mar de 2025;$1.327.143;General Lagos
+6.975.475-9;LILIANA JARA ÁLVAREZ;  ELEAZAR01@EXAMPLE.NET ;65972220;5 de sep de 2023;1020204;Putaendo
+25365086-9;ERICK FELIPE ZENTENO VERGARA;martaescobar@example.org;+56 9 6606 1907;21/08/2023;$1.515.555;Galvarino
+5149318-4;NATALIA SILVIA GÁLVEZ FERRADA;macarena47@example.net;(+56) 9-5419-8582;11/06/2023;1101389;Pedro Aguirre Cerda
+13.375.577-2;  anna galdames robles  ;pizarrojuan@example.org;(+56) 9-8474-5297;25 de may de 2022;900973;Pemuco
+25045144-k;  ricardo claudio duarte olea  ;ysalas@example.net;+56 9 5665 5753;15 de jul de 2023;1422582;Hualpén
+52954037;ALBERTO GABRIEL BARRÍA ESPINOZA;angie61@example.org;(+56) 9-9310-1631;22 de ene de 2023;476.525 CLP;Quirihue
+254793337;Roberto Alexander Barría Arredondo;vegaanahi@example.com;56971811331;2024-05-11;por confirmar;Isla de Maipo
+25.842.645-2;María Reyes;neiramariaexample.org;983949347;12 de abr de 2022;2.279.421 CLP;El Monte
+83724633;Haydée Vera Jaque;nathalierodriguez@example.org;953766097;8-3-2025;713.963 CLP;Litueche
+5321566-1;LUIS DANIEL HERRERA VÁSQUEZ;samuelpulgar@example.com;83919371;23 de jul de 2025;$702.511;La Ligua
+5.742.589-K;VÍCTOR OSCAR ROJAS OLATE;ugalleguillos@example.com;+56 9 9799 5987;29/02/2023;1435086;Villa Alegre
+21071965-2;  pilar pabla pérez valenzuela  ;  KLEIVA@EXAMPLE.NET ;+56 9 9780 8442;20-6-2022;1.154.500 CLP;Río Verde
+14175712-1;CELESTE MARÍA FERNÁNDEZ HERRERA;rene65@example.net;959829846;15 de jun de 2022;898.525 CLP;Isla  de Pascua
+193198236;MARÍA FERNANDA PAREDES MARTÍNEZ;  CORNEJOGERARDO@EXAMPLE.ORG ;+56 9 9609 1779;2022-02-03;546.743 CLP;Nueva Imperial
+18566616-6;Colomba Valderrama Castillo;paolamunoz@example.com;9858444;21 de feb de 2022;763226;Pelluhue
+23242091-k;  mauricio villarroel rojas  ;rosa99@example.org;986541971;2024-07-09;N/A;Perquenco
+24727452-9;Josefina Bernal;german88@example.com;+56 9 6386 6010;9-9-2024;1358501;Puente Alto
+223432069;  yanara alicia gómez gamboa  ;  RHENRIQUEZ@EXAMPLE.NET ;979900817;17/06/2023;703.104 CLP;Río Hurtado
+6.633.306-K;MARCELO INOSTROZA;wmardones@example.net;+56 9 8622 2667;2023-09-10;2.423.104 CLP;Quinta Normal
+6704528-9;JUAN OJEDA;sotopaola@example.com;972384600;15 de dic de 2023;por confirmar;Lampa
+6266220-4;María Corvalán;  VALENZUELAPEDRO@EXAMPLE.NET ;989067808;19-2-2024;324806;Placilla
+92355764;ARACELI ÁLVAREZ;jessica42@example.com;98806;12/06/2025;2408202;San Rosendo
+159513832;CRISTHIAN FRANCISCO PEÑA VERGARA;solisconstanza@example.net;73878085;22 de mar de 2025;360427;Sierra Gorda
+23.171.241-0;LEÓN TRONCOSO;;994110914;17 de abr de 2022;$2.064.718;La Pintana
+11700743-K;ANTONELLA SANHUEZA;valentin86@example.com;(+56) 9-8225-1892;28/12/2022;$1.196.640;Providencia
+102829697;JOSÉ ASTUDILLO ROSALES;  CASTILLOJUAN@EXAMPLE.NET ;56976517605;23/12/2022;2.306.158 CLP;Toltén
+137164051;JUAN BURGOS CORREA;;(+56) 9-5813-6110;19-10-2023;1.194.735 CLP;Machalí
+9743205-8;  germán rodrigo molina mora  ;  HANSCONCHA@EXAMPLE.COM ;75750339;6-9-2023;785748;Lo Espejo
+19.199.425-6;  natacha natalie lópez-duarte mora  ;gutierrezelena@example.org;96059406;17/12/2022;50576;Pemuco
+10348422-7;  maría escalona cortés  ;baezjulia@example.com;962164190;27-11-2022;$2.027.182;Chépica
+24265369-6;Juan Vejar;  SPOBLETE@EXAMPLE.ORG ;+56 9 5503 6400;2024-11-08;$1.108.820;San Bernardo
+12.424.726-8;FREDY HERRERA LEÓN;  SEBASTIAN92@EXAMPLE.COM ;89193717;7 de mar de 2024;2390870;María Pinto
+17.107.409-7;NATALIA BEATRIZ PÉREZ POBLETE;  MARITZAZAPATA@EXAMPLE.NET ;56991949143;2022-01-07;$344.664;Andacollo
+23138265-8;  ana marchant rubilar  ;tatianarojas@example.com;983607639;14/02/2022;1.429.549 CLP;Concepción
+214113651;Julieta Yolanda Ruiz Valderrama;victoriasepulveda@example.com;76006504;15 de mar de 2024;1951594;Renaico
+22783574-5;OSCAR PRADO PEÑA;penaanais@example.net;93399695;18-2-2024;217.160 CLP;Tucapel
+21393952-1;  erika silva estay  ;elizabethdiaz@example.net;+56 9 9777 0935;8-5-2022;1285321;Quellón
+246121346;  gerardo lorca toro  ;simongodoy@example.org;+56 9 9087 2660;2025-02-11;1.162.339 CLP;Pucón
+12458752-2;LEYLA MARCELA ÁLVAREZ CASTILLO;  HERNAN33@EXAMPLE.COM ;(+56) 9-9326-4079;1-2-2024;$1.860.885;Maullín
+25972650-6;CLEMENTE CRISTÓBAL GONZÁLEZ MORENO;gutierrezrafael@example.net;9704452;2024-10-13;1.847.428 CLP;San Clemente
+233298875;  omar sáez toledo  ;sotojuan@example.com;966543619;25-5-2023;2052027;Cabo de Hornos
+12766930-9;  karina hernández troncoso  ;  PVARGAS@EXAMPLE.NET ;+56 9 8076 6597;5 de sep de 2022;$314.861;Pudahuel
+9503002-5;ELBA MARÍA PÉREZ PARRA;alan99@example.org;57559596;30/02/2024;$1.238.421;Vilcún
+20236362-9;  kevin francisco ramírez ortiz  ;juanrodriguez@example.org;951256268;24 de jun de 2023;797370;San Joaquín
+6064921-9;Vicente Ibarra;munozcristian@example.net;76334979;27 de abr de 2023;53.913 CLP;Conchalí
+105541008;  david silva tapia  ;sixto84@example.org;+56 9 6571 3127;7-1-2022;2.491.072 CLP;Coihaique
+17.038.764-3;  pía claudina bugueño torres  ;francisca01@example.net;(+56) 9-8809-4438;18 de ago de 2023;$160.231;Malloa
+15040638-2;  mónica san martín álvarez  ;mariavasquez@example.net;981869502;2024-11-04;112766;Queilén
+13875847-8;  juan vera figueroa  ;alfredojara@example.org;975403012;07/10/2024;$956.874;Yumbel
+23466767-K;GUSTAVO FELIPE JARA GONZÁLEZ;cornejoantonioexample.net;56981923662;10/06/2024;2.409.089 CLP;El Quisco
+14193159-8;  verónica gómez morales  ;javiera95@example.net;56958312966;20 de ago de 2024;2462554;Curacaví
+11492705-8;  pablo héctor peña arriagada  ;tmorales@example.org;+56 9 6166 3193;2025-01-14;546538;El Bosque
+9481824-9;  oscar gallegos plaza  ;libarra@example.org;(+56) 9-7507-3538;26-9-2025;1.038.945 CLP;Canela
+17.914.316-K;Ana Francisca Díaz Cerda;martina21@example.net;60531217;2025-03-03;1011373;Pedro Aguirre Cerda
+25561420-7;  cristian josé rojas arenas  ;maritzatello@example.org;(+56) 9-6807-9680;6-6-2024;1758803;Quellón
+9807022-2;MATÍAS PEDRO ROJAS SALINAS;johan52@example.com;(+56) 9-5409-0797;22 de nov de 2023;197.646 CLP;Arauco
+14504174-0;  hugo leiva soto  ;clagos@example.com;(+56) 9-5304-7907;7-1-2022;576604;Chillán
+145874459;MARÍA NÚÑEZ;  PAULINA40@EXAMPLE.ORG ;56955407475;05/12/2025;1.741.082 CLP;La Cruz
+22662829-0;  ramón mena vega  ;xreyes@example.com;56974333517;7-8-2024;$650.887;María Pinto
+12.607.382-8;  maría claudia rivas gonzález  ;antonellaflores@example.com;(+56) 9-7566-8265;2022-06-18;$2.108.225;Calbuco
+6518082-0;DANIELA VALERIA LOBOS URZÚA;xsaavedra@example.net;54934632;22-10-2024;406511;Alhué
+24424687-7;Alicia Ramírez;margaritapena@example.org;(+56) 9-8647-1608;25 de nov de 2025;937.615 CLP;San Nicolás
+6.163.093-7;  mauricio fuentealba-dinamarca  ;  MARIABRIONES@EXAMPLE.COM ;97025;2023-06-01;2.323.231 CLP;Santa María
+16326777-2;  elías cristopher cifuentes aguayo  ;tsilva@example.org;982923312;24-3-2023;$2.274.886;Chaitén
+11789690-0;César Maximiliano Miranda Díaz;  LUCIAAGUAYO@EXAMPLE.NET ;(+56) 9-6190-6601;17/09/2022;2.023.665 CLP;Juan Fernández
+17907136-3;JUAN VICENTE ROMERO ESCOBAR;marcoshernandez@example.com;73008864;2023-03-14;2.298.664 CLP;Ovalle
+12818138-5;  rose ximena aguirre silva  ;;(+56) 9-5970-9845;04/03/2024;por confirmar;Puerto Varas
+6.801.099-3;NANCY ANTONIA VARGAS VALDÉS;  JROZAS@EXAMPLE.COM ;83586468;2-7-2024;577151;Chonchi
+20063522-1;CRISTIAN MARÍN CAMPOS;fernandoojeda@example.org;56981475104;19 de nov de 2024;1.182.836 CLP;Monte Patria
+17.190.142-1;Ana María Herrera Figueroa;patriciobarra@example.org;964881;17/09/2024;193007;Colbún
+22.260.902-K;Constanza Medina Riquelme;pazsalinas@example.org;977621754;28-12-2023;1.351.971 CLP;Torres del Paine
+14.346.424-5;ZUNILDA ARRIAGADA;carlossolis@example.net;(+56) 9-8693-1706;25-2-2022;$1.705.624;Maullín
+9.061.933-0;ARTURO DIEGO SALINAS ÁVILA;joseramirez@example.com;(+56) 9-9439-3945;28 de ene de 2024;443662;Lago Verde
+19850299-5;  david pedro cerda barrientos  ;joshua12@example.com;60680906;2025-05-25;$2.187.489;Paredones
+7218454-8;  vicente víctor acevedo rojas  ;fmondaca@example.org;+56 9 6601 4684;15/02/2025;1.298.256 CLP;Yerbas Buenas
+19461272-9;Mirta Violeta Pizarro Durán;;(+56) 9-7375-0785;1 de jul de 2024;356.255 CLP;Combarbalá
+10334230-9;Claudio Joaquín Mardones Carrillo;saavedraruben@example.org;+56 9 8518 4252;27/04/2023;$1.047.438;Algarrobo
+235247070;LIDIA DÍAZ SOTO;vsalazar@example.net;993534952;16 de sep de 2024;1344155;Treguaco
+186402979;Jairo Segovia Mansilla;ssepulveda@example.org;+56 9 8109 4663;26/03/2022;902862;Andacollo
+139648269;  luis henríquez rojas  ;alegriakaren@example.net;89388723;2023-08-18;2315909;San Fabián
+167959598;  néstor benjamín zúñiga fuentes  ;herreraoscar@example.net;+56 9 6842 5098;21-11-2022;131.613 CLP;Cisnes
+17503124-3;Ángel Mora;bastian18@example.org;80637792;21-7-2025;475.193 CLP;Colbún
+129447419;LUIS GONZÁLEZ;rsepulveda@example.org;99348695;3-4-2024;$2.453.443;Contulmo
+178037889;  claudio álvarez uribe  ;cristinaramos@example.net;(+56) 9-9990-6846;2025-04-21;2.468.866 CLP;Nueva Imperial
+14540844-k;JAIME HUGO NÚÑEZ PERALTA;  TERESAPARDO@EXAMPLE.NET ;53447833;13/02/2022;637.389 CLP;Pelarco
+227090731;Nicolás Andrés Gutiérrez Bugueño;ymora@example.org;(+56) 9-5320-4411;4 de feb de 2025;abc;El Quisco
+122928063;  claudia maría campos astorga  ;sebastian37@example.net;56995122236;4 de dic de 2024;2.445.466 CLP;San Fabián
+18317634-k;BERNARDA HERNÁNDEZ GUZMÁN;fabiansepulveda@example.org;+56 9 9679 0737;13 de feb de 2022;236.363 CLP;Padre Las Casas
+11.681.691-1;Cristian Leopoldo Oliva Segura;karancibia@example.org;+56 9 9102 1901;21 de jul de 2025;$2.074.568;Portezuelo
+17.190.142-1;Ana María Herrera Figueroa;patriciobarra@example.org;964881;17/09/2024;193007;Colbún
+7752738-9;  héctor muñoz-letelier  ;grojas@example.com;960353346;30/02/2024;1866357;San Bernardo
+14552170K;ANGELO ROBINSON AMPUERO GONZÁLEZ;carlosmarambio@example.org;954594538;2022-11-15;$2.064.580;Melipilla
+14228452-9;  rené joaquín farías muñoz  ;  GONZALEZFELIPE@EXAMPLE.ORG ;+56 9 9970 5370;1-1-2025;2.120.613 CLP;Juan Fernández
+5242195-0;EVELYN GABRIELA FARÍAS MEDINA;mgonzalez@example.com;56979333711;8 de jul de 2025;1.005.795 CLP;La Estrella
+19.863.302-K;Patricio Ibacache Reyes;yanezelena@example.com;56956305569;2025-07-22;$666.264;Romeral
+21061335-8;  nicole ana matus lópez  ;susana12@example.org;71275366;17-11-2025;$542.203;Corral
+8513989-4;BEATRIZ HERRERA;caceresclaudia@example.net;+56 9 5503 3327;20/10/2024;$1.810.101;Papudo
+21.531.089-2;GASPAR PARDO GUTIÉRREZ;nataliasalinas@example.net;(+56) 9-7116-7270;2024-08-06;1.669.827 CLP;Treguaco
+233065420;MARÍA CASTILLO;  MARIA43@EXAMPLE.ORG ;95968957;2 de dic de 2022;2032096;Pirque
+9604063-6;DANTE PATRICIO CORDERO LOBOS;  PSAN-MARTIN@EXAMPLE.NET ;985098295;2023-06-05;$496.165;Lautaro
+11.716.870-0;ALBERTO CRISTIAN MOLINA VILLARROEL;opazojose@example.net;+56 9 9787 3443;2024-11-12;1.259.109 CLP;Quillón
+101335313;  maría san martín-vergara fuenzalida  ;cindy14@example.org;86116172;19-12-2025;364490;Ercilla
+230043795;  violeta raquel pacheco leiva  ;lagoscamilaexample.org;967593354;2022-11-08;929.481 CLP;Pica
+20278427-5;JENNIFFER VICTORIA VIDAL BAEZ;vecheverria@example.com;79404818;10/02/2024;95.728 CLP;Puyehue
+158740222;  christian gonzalo valenzuela hormazábal  ;  GLADYS07@EXAMPLE.NET ;86530714;19/06/2025;$2.168.041;Ollagüe
+19943733K;CINTIA SÁEZ LEIVA;oflores@example.net;+56 9 6179 5735;18/03/2024;317.250 CLP;Algarrobo
+194786301;Elisabeth Verónica González Suárez;  RMORENO@EXAMPLE.NET ;78786767;19/06/2025;1785631;Juan Fernández
+19463677-6;JORGE BRIAN CARMONA GÓMEZ;  UGONZALEZ@EXAMPLE.NET ;+56 9 5363 5366;24/07/2022;1.043.940 CLP;Pirque
+132754454;  maría inostroza palma  ;pablocastillo@example.com;56989160231;16/09/2023;$460.901;Cauquenes
+184794838;  gabriela clara romero-vera araya  ;domingoaraya@example.org;981891352;2022-06-27;1.176.859 CLP;Lago Ranco
+17273651-3;GLADYS JUANA HERMOSILLA CARRASCO;;56985119158;16 de may de 2024;2001964;Punta Arenas
+8576476-4;Luz Chávez;  CLAUDIA84@EXAMPLE.NET ;+56 9 9670 1848;15 de feb de 2023;2.228.728 CLP;Punta Arenas
+14.903.274-6;SEGUNDO RODRIGO MARAMBIO FUENTES;benjamin79@example.org;(+56) 9-5687-7316;21-12-2023;2.143.963 CLP;O'Higgins
+15.881.122-7;Leticia Norambuena-Molina Aguilera;adrianamunoz@example.org;+56 9 7116 9695;23 de oct de 2023;1.660.400 CLP;Ñiquén
+8051495-6;Benjamín Julián Hidalgo Galaz;apereira@example.com;(+56) 9-8444-3479;2022-09-15;$92.311;Ninhue
+16324639-2;PASCUALA REYES MARTÍNEZ;riverahugo@example.com;+56 9 7829 0736;2025-01-24;941.455 CLP;Malloa
+226436375;Flor Nicole Molina Gallardo;munozpaula@example.org;+56 9 9066 4859;16/11/2023;$1.964.182;Coelemu
+20421005-6;ROSA CAMILA MARTÍNEZ GARCÍA;michaelsilvaexample.net;56978709125;2024-03-28;392496;Talca
+71252051;Elena Maite Suazo Concha;alfonsovillegas@example.com;(+56) 9-9549-5039;28/11/2023;$1.816.495;Cisnes
+12715175-k;AMY ELIZABETH MORALES VÁSQUEZ;juanrodriguez@example.org;950652512;2023-05-03;$319.887;Río Hurtado
+23.221.086-9;Sergio Martín Zurita Mamani;pablobenitez@example.com;97110;27/12/2023;$1.256.258;Lo Espejo
+15.139.819-7;Fernando Carvajal Gallardo;alvarezvicente@example.org;52497263;8-2-2022;1.631.098 CLP;Chile Chico
+62537086;  hugo leopoldo rosas correa  ;  NEIRAJOSE@EXAMPLE.NET ;+56 9 8985 7569;23 de ene de 2022;1595899;Pica
+23.510.086-K;  emily sara ponce verdugo  ;juanhermosillaexample.org;+56 9 8595 2775;4-3-2025;1.011.696 CLP;Providencia
+15694953-1;Erica Georgina Cabrera Salinas;dpena@example.com;62339909;10-4-2023;1.943.068 CLP;Lanco
+5149318-4;NATALIA SILVIA GÁLVEZ FERRADA;macarena47@example.net;(+56) 9-5419-8582;11/06/2023;1101389;Pedro Aguirre Cerda
+15318461-5;  karina antonia allendes lópez  ;sofiatoro@example.com;+56 9 5574 8105;22-3-2023;1.112.728 CLP;Castro
+9101401-7;  sebastián erick díaz reyes  ;ealfaro@example.com;969302482;17 de oct de 2022;941551;Teno
+14776296-8;FANNY ISIDORA GARRIDO BUSTOS;pablogatica@example.com;(+56) 9-7437-1579;06/07/2025;525.455 CLP;Sagrada Familia
+170350979;Marisol Arteaga Gallegos;victorescobar@example.net;56980515566;26-1-2022;2.369.011 CLP;Penco
+20234763-0;FRANCISCA LESLIE NAVARRO ARÉVALO;zespinoza@example.net;56991946932;18-2-2025;$1.115.143;Talagante
+21.223.682-9;Victoria Valdés Velásquez;  CRISTIAN42@EXAMPLE.COM ;965552473;2023-01-22;1628780;Linares
+60970653;Aurora Mariana Castillo Arias;mansillalaura@example.com;87960159;2022-10-04;$2.274.494;Puerto Varas
+22.603.892-2;Tomás García Parra;vicente04@example.com;+56 9 7421 8318;2023-05-02;530654;Peñaflor
+6.519.673-5;  paula fernanda jara núñez  ;guzmanana@example.com;54631796;14-5-2022;1764125;Doñihue
+8603466-2;MARÍA AYALA CARRASCO;sotoerick@example.com;93261459;23-1-2023;1052496;Concón
+5.312.208-6;  alexia maría huerta moya  ;  PALMAFERNANDO@EXAMPLE.ORG ;56991795251;17/02/2025;$1.186.758;Mostazal
+25031017-k;  rodrigo arévalo ávila  ;ysanchez@example.org;(+56) 9-7362-1308;23/11/2023;$562.817;Calama
+5056749-4;MARÍA OLGA RUBILAR DÍAZ;maria97@example.net;(+56) 9-9457-6236;2024-11-28;2128025;Vicuña
+5299636-8;  javiera herrera  ;jaimeherrera@example.org;56974924142;2023-08-03;252.877 CLP;Teno
+24.410.377-4;  liliana moraga espinoza  ;ssoto@example.org;(+56) 9-8518-0636;27/03/2025;$2.402.533;Valdivia
+19688730-K;ALEXIS ALAN PINTO VILLALOBOS;josefina65example.net;968984666;2022-11-21;397386;San Felipe
+22468648-K;JOSÉ GUEVARA CONCHA;rodriguezsofia@example.net;56977072861;2023-11-11;917.225 CLP;Galvarino
+11320315-3;Krishna Soto;claudiocastro@example.com;990267553;2023-12-01;1089112;Requínoa
+9342143-4;CATALINA CONSTANZA DONOSO VALENZUELA;vargaswilfredo@example.net;+56 9 8203 7790;2023-12-12;2.228.317 CLP;Chile Chico
+192775388;PABLO EDMUNDO CONCHA ACOSTA;marisol56@example.net;56968180893;7-12-2022;804381;Peñalolén
+10723271-0;  rosa seguel  ;elciramarquez@example.org;56989100720;24 de mar de 2024;2478139;Pelluhue
+23095773-8;  katherine díaz molina  ;mardonesisrael@example.org;95076148;2025-02-08;$89.224;Mariquina
+24250601-4;JOSÉ ARCE;josefaarriagada@example.net;965761279;2023-04-07;$655.292;Talcahuano
+8.362.288-1;LUIS ENCINA;qperez@example.net;973076669;16 de nov de 2025;158142;Cunco
+24601747-6;Tomás Borja Ávalos Mardones;  LUISARAVENA@EXAMPLE.NET ;+56 9 5537 6189;28/11/2022;2.390.391 CLP;Marchihue
+8061587-6;EDUARDO BENJAMÍN CÁCERES ROJAS;lopezcristian@example.net;957019579;16 de dic de 2025;$2.308.272;Teodoro Schmidt
+22.424.006-6;  ignacia santana troncoso  ;catalina39@example.com;56978897556;2024-06-04;1.286.536 CLP;Renca
+7686526-4;Paola Castro Rodríguez;vidalraul@example.org;+56 9 8175 4961;25/09/2025;$1.101.804;Torres del Paine
+18730834-8;Ana María Paredes San Martín;lopezmanuel@example.com;56976366837;25/02/2024;1.890.553 CLP;Cabrero
+9098389K;Arnoldo Luis Córdova Rodríguez;anita65@example.com;56953495533;21/04/2022;702.960 CLP;Los Andes
+12648981-1;MATILDE SAMANTHA GONZÁLEZ FUENTES;carlos31@example.org;+56 9 7796 9144;7 de ago de 2023;2032973;Villa Alemana
+7125025-3;Miguel Martinez Oyarzún;silvamargarita@example.org;964217111;18 de jun de 2024;$1.442.748;Pirque
+119722055;  josé gatica córdova  ;belenmolina@example.com;+56 9 6609 7079;14 de ene de 2023;1222630;Los Andes
+13824611-6;CRISTOPHER PEDRO CAMPOS MIRANDA;zepedasilvia@example.org;(+56) 9-6982-0683;2025-04-23;abc;Loncoche
+129858184;Jorge Morales García;gtobar@example.com;955954301;09/01/2025;$1.471.024;Pelluhue
+24382756-6;  carlos navarro  ;sotoflor@example.com;56994243723;6 de dic de 2025;1.420.511 CLP;Cholchol
+25648640-7;ROSA CARMEN TORRES VILLALOBOS;emma90@example.com;56998394109;2025-09-15;N/A;Sierra Gorda
+8367677-9;Lautaro José Muñoz Valenzuela;mellamaria@example.com;98066;2025-11-05;1421028;Alto Hospicio
+23285201-1;  joaquín espinoza quezada  ;javierarivas@example.net;56950436124;2025-06-09;$429.700;General Lagos
+21264229-0;  thiare ruiz sánchez  ;raquel68@example.net;9869661;27 de abr de 2022;$493.688;Los Muermos
+6376493-0;JORGE TOMÁS VALDIVIA LÓPEZ;ezambrano@example.org;+56 9 8364 6190;2025-02-26;$354.702;Illapel
+9.439.724-3;Elizabeth Olivares Sepúlveda;wmunozexample.net;970499053;2025-07-28;916.235 CLP;Ránquil
+10.495.068-K;  diego faúndez  ;;70935096;7-12-2025;428405;Constitución
+14278063-1;ELIZABETH DANITZA LÓPEZ CARO;joaquinaraya@example.org;98858;2025-09-04;1.426.920 CLP;Nogales
+135110906;Alonso Navarro;mariasaldias@example.net;+56 9 9918 6839;2024-03-02;735.377 CLP;Talcahuano
+11330123-6;  pablo zambrano  ;victor55@example.com;9775666;22-7-2025;$2.078.558;Paillaco
+24290237-8;PÍA ISABELLA SEPÚLVEDA ZÚÑIGA;mariapoblete@example.net;66325791;29/02/2025;1.082.374 CLP;Lumaco
+7.435.697-4;ISABEL PATRICIA DELGADO GARRIDO;josefacarrascoexample.com;970223303;13/07/2025;$1.989.048;Taltal
+10524305-7;MARCELO JUAN CANALES MAMANI;contreraseduardo@example.com;(+56) 9-8053-5094;07/03/2025;$2.430.258;Palena
+16250477-0;Sebastián Miranda Morales;  THERNANDEZ@EXAMPLE.ORG ;56981705913;29/02/2025;$80.708;Hualaihué
+19996486-0;  roberto santibáñez  ;gonzalezrosa@example.org;56992393487;21 de jul de 2024;300238;Rauco
+17885972-2;FRANCISCA BERNARDA ORELLANA AGUILERA;vidalgustavo@example.com;+56 9 6662 8662;2023-09-20;113.509 CLP;Coquimbo
+82448012;  elsa herrera gonzález  ;  AGUILERATERESA@EXAMPLE.COM ;+56 9 8957 5871;14 de sep de 2025;2403137;Licantén
+7.494.114-1;Aurelio Miguel Gaete Ramírez;pachecoemilia@example.com;56992325671;17/04/2022;$2.027.705;San Antonio
+9525511-6;DANIEL RODRÍGUEZ;arcetania@example.org;(+56) 9-8834-1353;3 de abr de 2023;1.357.486 CLP;Talcahuano
+16537746-K;Mauricio Delgado;elizabethramirez@example.org;56991398446;22/03/2022;2.303.048 CLP;La Pintana
+229053930;  maritza matilde hernández salas  ;pedrogodoy@example.org;+56 9 8274 5601;2022-04-21;955146;La Ligua
+22074911-8;ALMENDRA ARTEAGA;vegarene@example.com;56966356504;20-4-2025;293804;Coihaique
+7.613.456-1;  carolina danae morales letelier  ;munozrosa@example.com;(+56) 9-5353-4768;2022-07-03;1.304.160 CLP;Tirúa
+14.882.359-6;  franco elías mora riveros  ;carrascorodolfo@example.net;(+56) 9-7627-9926;20-3-2022;2373089;Machalí
+52954037;ALBERTO GABRIEL BARRÍA ESPINOZA;angie61@example.org;(+56) 9-9310-1631;22 de ene de 2023;476.525 CLP;Quirihue
+21038649-2;León Álvarez Muñoz;  OLATERICARDO@EXAMPLE.COM ;961909130;5-1-2022;466234;San Pedro de la Paz
+19.212.826-9;  catalina martínez olmedo  ;kvalenzuela@example.com;+56 9 9134 2218;17-2-2024;2.250.783 CLP;Mariquina
+6645651-k;GONZALO MARCO GARAY SUÁREZ;  SANTIAGO72@EXAMPLE.COM ;965442983;7-11-2023;408.535 CLP;Máfil
+18.561.864-1;  ignacio aravena  ;ldominguez@example.net;56981002707;25 de oct de 2024;217.475 CLP;Cobquecura
+20647483-1;Antonia Elgueta Alvarado;spalmaexample.com;(+56) 9-7165-1334;2024-08-26;306684;Puente Alto
+127291403;  maite palma  ;  IHERNANDEZ@EXAMPLE.ORG ;56995313879;27-11-2023;181.960 CLP;La Pintana
+20793736-3;MARÍA NATALIA CASANOVA MÁRQUEZ;ceciliajimenez@example.com;56965273674;2025-06-09;1473813;Coronel
+14016651-0;PAULA YOLANDA JIMÉNEZ SALAZAR;  GLORIA82@EXAMPLE.NET ;956247485;16/08/2024;391664;Nueva Imperial
+153807566;MARÍA KATHERINE GAMBOA TORRES;arayaraul@example.org;56958809857;2022-01-22;1.998.137 CLP;Tocopilla
+19704227-3;PÍA MARÍA OJEDA URIBE;  VARGASJAVIERA@EXAMPLE.COM ;75414970;26-8-2022;$683.230;Andacollo
+168220340;GIOVANNA ANAHÍ VEGA TORRES;wvaras@example.com;992496072;2023-10-18;1510985;Tirúa
+7812451-2;PAULA SANTOS JARAMILLO;sinostroza@example.com;+56 9 9759 0172;1-9-2022;$1.325.987;Ancud
+19957846-4;  kevin walter carrasco silva  ;wcastro@example.net;+56 9 8358 5690;10/02/2025;487.830 CLP;Pinto
+7442236-5;SARA CORNEJO-RIQUELME;  YANEZJORGE@EXAMPLE.ORG ;+56 9 7234 4856;24 de abr de 2023;1.018.509 CLP;Yerbas Buenas
+13184360-7;SONIA GARCÍA;bryan61@example.com;81007929;21 de mar de 2023;$123.441;Combarbalá
+10841524-K;Alison Espinoza Díaz;moyamartin@example.net;59319869;18 de jun de 2022;$2.314.774;Los Lagos
+9.944.200-K;Paulina Soto Ulloa;reyesjulia@example.com;73460257;17 de jul de 2022;$343.278;Villa Alemana
+9489228-7;DIANA ZÚÑIGA GARCÉS;bustosbenjamin@example.org;61065144;8-4-2022;886.796 CLP;Empedrado
+199903748;Erick Venegas;  COSSES@EXAMPLE.COM ;(+56) 9-5753-0204;2023-10-18;2.183.470 CLP;Torres del Paine
+133919031;José Olivares Leiva;vergaraalejandro@example.com;82427544;2024-10-10;93.021 CLP;Collipulli
+25825944-0;Armando Naranjo-Casanova;jparada@example.org;+56 9 6188 1783;11 de dic de 2023;1.041.888 CLP;Pencahue
+182739847;NICOLE SABINA MONSALVE PIZARRO;escalonasandra@example.com;60569906;2025-11-11;$937.324;San Vicente
+14347198-5;  luis juan cabezas aguilar  ;alejandronavarrete@example.net;(+56) 9-9172-3178;2022-10-22;122.438 CLP;Timaukel
+12.219.048-K;Carmen Rosa Romero Contreras;josearenas@example.org;90098805;1 de sep de 2024;562.763 CLP;La Higuera
+20123955-9;  lorena trinidad vásquez herrera  ;olga86@example.com;56956702144;7-7-2025;$1.984.851;Quinchao
+10658481-8;Ana Salgado;gajardovictor@example.com;998360846;2022-01-03;885194;Cochrane

@@ -1,0 +1,16 @@
+# Reglas de limpieza para examples/clientes_sucios.csv.
+# Las columnas que no aparecen en [columns] se infieren por su nombre.
+
+# Columnas que no pueden venir vacías.
+required = ["rut_cliente", "fecha_de_compra"]
+
+# Columnas que identifican una venta. Además de las filas idénticas, se
+# eliminan las filas que repiten esta combinación.
+unique_keys = ["rut_cliente", "fecha_de_compra", "monto"]
+
+# Las fechas vienen como día/mes/año.
+dayfirst = true
+
+[columns]
+# Fuerza el tipo cuando el nombre no basta para inferirlo.
+comuna = "texto"
